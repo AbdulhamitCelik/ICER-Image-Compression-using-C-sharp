@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICER-Image-Compression-using-C-sharp", "ICER-Image-Compression-using-C-sharp\ICER-Image-Compression-using-C-sharp.csproj", "{E6330AE4-93CB-4C49-8021-8A5CCD2553A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6330AE4-93CB-4C49-8021-8A5CCD2553A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6330AE4-93CB-4C49-8021-8A5CCD2553A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6330AE4-93CB-4C49-8021-8A5CCD2553A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6330AE4-93CB-4C49-8021-8A5CCD2553A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7964C022-54AF-4142-99DE-95FC1DE78EE9}
+	EndGlobalSection
+EndGlobal
